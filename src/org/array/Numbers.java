@@ -8,8 +8,12 @@ public class Numbers {
 			i++;
 		}while(i<10); {
 			System.out.println("***");
-		}
-	}
+			System.out.println("***");
+			System.out.println("***");
+			System.out.println("***");
+			System.out.println("***");
+			System.out.println("***");
+	}}
 	
 }
 
